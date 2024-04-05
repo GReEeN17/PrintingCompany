@@ -1,0 +1,12 @@
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Application/bin/Debug/net8.0/AutoPiterTest.Application.deps.json
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Application/bin/Debug/net8.0/AutoPiterTest.Application.dll
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Application/bin/Debug/net8.0/AutoPiterTest.Application.pdb
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Application/obj/Debug/net8.0/AutoPiterTest.Application.csproj.AssemblyReference.cache
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Application/obj/Debug/net8.0/AutoPiterTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Application/obj/Debug/net8.0/AutoPiterTest.Application.AssemblyInfoInputs.cache
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Application/obj/Debug/net8.0/AutoPiterTest.Application.AssemblyInfo.cs
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Application/obj/Debug/net8.0/AutoPiterTest.Application.csproj.CoreCompileInputs.cache
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Application/obj/Debug/net8.0/AutoPiterTest.Application.dll
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Application/obj/Debug/net8.0/refint/AutoPiterTest.Application.dll
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Application/obj/Debug/net8.0/AutoPiterTest.Application.pdb
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Application/obj/Debug/net8.0/ref/AutoPiterTest.Application.dll

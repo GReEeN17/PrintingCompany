@@ -1,0 +1,15 @@
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Application.Models/bin/Debug/net8.0/AutoPiterTest.Application.Models.deps.json
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Application.Models/bin/Debug/net8.0/AutoPiterTest.Application.Models.dll
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Application.Models/bin/Debug/net8.0/AutoPiterTest.Application.Models.pdb
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Application.Models/bin/Debug/net8.0/AutoPiterTest.Infrastructure.Entities.dll
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Application.Models/bin/Debug/net8.0/AutoPiterTest.Infrastructure.Entities.pdb
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Application.Models/obj/Debug/net8.0/AutoPiterTest.Application.Models.csproj.AssemblyReference.cache
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Application.Models/obj/Debug/net8.0/AutoPiterTest.Application.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Application.Models/obj/Debug/net8.0/AutoPiterTest.Application.Models.AssemblyInfoInputs.cache
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Application.Models/obj/Debug/net8.0/AutoPiterTest.Application.Models.AssemblyInfo.cs
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Application.Models/obj/Debug/net8.0/AutoPiterTest.Application.Models.csproj.CoreCompileInputs.cache
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Application.Models/obj/Debug/net8.0/AutoPite.233B1AFA.Up2Date
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Application.Models/obj/Debug/net8.0/AutoPiterTest.Application.Models.dll
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Application.Models/obj/Debug/net8.0/refint/AutoPiterTest.Application.Models.dll
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Application.Models/obj/Debug/net8.0/AutoPiterTest.Application.Models.pdb
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Application.Models/obj/Debug/net8.0/ref/AutoPiterTest.Application.Models.dll

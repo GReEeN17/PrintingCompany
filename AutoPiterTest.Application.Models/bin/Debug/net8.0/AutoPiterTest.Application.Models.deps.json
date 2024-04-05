@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AutoPiterTest.Application.Models/1.0.0": {
+        "dependencies": {
+          "AutoPiterTest.Infrastructure.Entities": "1.0.0"
+        },
+        "runtime": {
+          "AutoPiterTest.Application.Models.dll": {}
+        }
+      },
+      "AutoPiterTest.Infrastructure.Entities/1.0.0": {
+        "runtime": {
+          "AutoPiterTest.Infrastructure.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutoPiterTest.Application.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutoPiterTest.Infrastructure.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

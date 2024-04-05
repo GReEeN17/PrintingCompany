@@ -1,0 +1,11 @@
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Infrastructure.Entities/bin/Debug/net8.0/AutoPiterTest.Infrastructure.Entities.deps.json
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Infrastructure.Entities/bin/Debug/net8.0/AutoPiterTest.Infrastructure.Entities.dll
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Infrastructure.Entities/bin/Debug/net8.0/AutoPiterTest.Infrastructure.Entities.pdb
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Infrastructure.Entities/obj/Debug/net8.0/AutoPiterTest.Infrastructure.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Infrastructure.Entities/obj/Debug/net8.0/AutoPiterTest.Infrastructure.Entities.AssemblyInfoInputs.cache
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Infrastructure.Entities/obj/Debug/net8.0/AutoPiterTest.Infrastructure.Entities.AssemblyInfo.cs
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Infrastructure.Entities/obj/Debug/net8.0/AutoPiterTest.Infrastructure.Entities.csproj.CoreCompileInputs.cache
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Infrastructure.Entities/obj/Debug/net8.0/AutoPiterTest.Infrastructure.Entities.dll
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Infrastructure.Entities/obj/Debug/net8.0/refint/AutoPiterTest.Infrastructure.Entities.dll
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Infrastructure.Entities/obj/Debug/net8.0/AutoPiterTest.Infrastructure.Entities.pdb
+/Users/azelen/Desktop/OwnProjects/AutoPiterTest/AutoPiterTest.Infrastructure.Entities/obj/Debug/net8.0/ref/AutoPiterTest.Infrastructure.Entities.dll
